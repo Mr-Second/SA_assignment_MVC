@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file>calculate.png</file>
+    <file>quire.png</file>
+    <file>Check.png</file>
+    <file>Unchecked.png</file>
+  </qresource>
+</RCC>
